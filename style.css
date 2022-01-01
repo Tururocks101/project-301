@@ -1,0 +1,26 @@
+.header {
+  background-image: url("h_img.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+}
+.description {
+  position: absolute;
+  top: 30%;
+  margin: auto;
+  padding: 2em;
+}
+.description h1 {
+  color: white;
+}
+.description p {
+  color: white;
+  font-size: 20px;
+}
