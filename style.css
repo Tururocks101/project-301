@@ -11,7 +11,7 @@ section {
 
 /*banner*/
 .banner-section {
-  background-image: url("h_img.jpg");
+  background-image: url("images/h_img.jpg");
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ section {
 }
 /*service*/
 .servive-section {
-  background-image: url(s_image.jpg);
+  background-image: url(images/s_image.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -103,7 +103,7 @@ section {
   border-bottom-left-radius: 0;
 }
 .contact {
-  background-image: url("c_image.jpg");
+  background-image: url("images/c_image.jpg");
 }
 .contact h2 {
   color: transparent;
